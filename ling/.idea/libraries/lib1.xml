@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ling_war_exploded/lib/mariadb-java-client-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ling_war_exploded/lib/fastjson-1.2.7.sec06.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
